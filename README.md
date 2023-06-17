@@ -48,7 +48,8 @@
 
 采用数据集为 [ftp://ftp.ncdc.noaa.gov/pub/data/noaa](ftp://ftp.ncdc.noaa.gov/pub/data/noaa)
 
-![image](https://github.com/wangxi955/HadoopApplicationDevelop/assets/80522598/9a200ded-828b-4577-93d3-c7494b3a9170)
+![image](https://github.com/wangxi955/HadoopApplicationDevelop/assets/80522598/b68ec57c-0a48-4964-b8f2-42e5a72627b2)
+
 
 需要导入 jar 包
 
@@ -58,7 +59,7 @@
 
 采用数据集为 [https://grouplens.org/datasets/movielens/](https://grouplens.org/datasets/movielens/)
 
-![image](https://github.com/wangxi955/HadoopApplicationDevelop/assets/80522598/7cb2bf67-6edb-4091-8245-f3a441d8384a)
+![image](https://github.com/wangxi955/HadoopApplicationDevelop/assets/80522598/96e9ce0d-2030-45ba-bbc2-083c8262c36c)
 
 具体代码放在 Task02
 
