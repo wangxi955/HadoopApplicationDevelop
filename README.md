@@ -5,7 +5,7 @@
 ### 搭建Hadoop和Spark集群
 #### 搭建Hadoop
 准备工作：
-（1）选定一台机器作为 Master
+（1）选定一台机器作为 Master\n
 （2）在 Master 节点上配置 hadoop 用户、安装 SSH server、安装 Java 环境
 （3）在 Master 节点上安装 Hadoop，并完成配置
 （4）在其他 Slave 节点上配置 hadoop 用户、安装 SSH server、安装 Java 环境（可采用脚本分发）
